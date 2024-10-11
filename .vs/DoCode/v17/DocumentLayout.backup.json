@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|c:\\users\\subin babu\\source\\repos\\docode\\docode\\filesoperations\\readfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|solutionrelative:docode\\filesoperations\\readfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|c:\\users\\subin babu\\source\\repos\\docode\\docode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|solutionrelative:docode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|c:\\users\\subin babu\\source\\repos\\docode\\docode\\xmloperations\\xmlread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|solutionrelative:docode\\xmloperations\\xmlread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|c:\\users\\subin babu\\source\\repos\\docode\\docode\\models\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|solutionrelative:docode\\models\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|c:\\users\\subin babu\\source\\repos\\docode\\docode\\xmloperations\\xmlwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|solutionrelative:docode\\xmloperations\\xmlwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|c:\\users\\subin babu\\source\\repos\\docode\\docode\\filesoperations\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026AF025-9353-4046-A361-117AB33226E8}|DoCode\\DoCode.csproj|solutionrelative:docode\\filesoperations\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\Models\\FileInfo.cs",
+              "RelativeDocumentMoniker": "DoCode\\Models\\FileInfo.cs",
+              "ToolTip": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\Models\\FileInfo.cs",
+              "RelativeToolTip": "DoCode\\Models\\FileInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:55:29.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadFileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\FilesOperations\\ReadFileInfo.cs",
+              "RelativeDocumentMoniker": "DoCode\\FilesOperations\\ReadFileInfo.cs",
+              "ToolTip": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\FilesOperations\\ReadFileInfo.cs",
+              "RelativeToolTip": "DoCode\\FilesOperations\\ReadFileInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:54:46.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XMLWrite.cs",
+              "DocumentMoniker": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\XMLOperations\\XMLWrite.cs",
+              "RelativeDocumentMoniker": "DoCode\\XMLOperations\\XMLWrite.cs",
+              "ToolTip": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\XMLOperations\\XMLWrite.cs",
+              "RelativeToolTip": "DoCode\\XMLOperations\\XMLWrite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:53:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XMLRead.cs",
+              "DocumentMoniker": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\XMLOperations\\XMLRead.cs",
+              "RelativeDocumentMoniker": "DoCode\\XMLOperations\\XMLRead.cs",
+              "ToolTip": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\XMLOperations\\XMLRead.cs",
+              "RelativeToolTip": "DoCode\\XMLOperations\\XMLRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:42:42.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\FilesOperations\\File.cs",
+              "RelativeDocumentMoniker": "DoCode\\FilesOperations\\File.cs",
+              "ToolTip": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\FilesOperations\\File.cs",
+              "RelativeToolTip": "DoCode\\FilesOperations\\File.cs",
+              "ViewState": "AgIAAAAAAACAZmZmZuYswBwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:25:38.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\Program.cs",
+              "RelativeDocumentMoniker": "DoCode\\Program.cs",
+              "ToolTip": "C:\\Users\\Subin Babu\\source\\repos\\DoCode\\DoCode\\Program.cs",
+              "RelativeToolTip": "DoCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:23:41.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
